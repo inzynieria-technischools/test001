@@ -3,3 +3,6 @@ test001
 
 
 zmiany
+
+
+zmiany cd
